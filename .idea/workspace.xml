@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92423fb8-69e6-4182-a1a1-b312e1e373bf" name="Changes" comment="Use process.env.PORT for dynamic port assignment" />
+    <list default="true" id="92423fb8-69e6-4182-a1a1-b312e1e373bf" name="Changes" comment="Update README" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +38,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/henryhoang/WebstormProjects/phonebook-backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -49,6 +50,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,10 +71,77 @@
       <updated>1748406558543</updated>
       <workItem from="1748406559595" duration="65000" />
       <workItem from="1748406652270" duration="772000" />
+      <workItem from="1748407437878" duration="1431000" />
     </task>
+    <task id="LOCAL-00001" summary="Use process.env.PORT for dynamic port assignment">
+      <option name="closed" value="true" />
+      <created>1748407456674</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748407456674</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add frontend production build (dist) for deployment">
+      <option name="closed" value="true" />
+      <created>1748408219399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748408219399</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Remove unused CORS setup">
+      <option name="closed" value="true" />
+      <created>1748408274257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748408274257</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add express.static middleware to serve frontend">
+      <option name="closed" value="true" />
+      <created>1748408486490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748408486490</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update README with deployed backend URL">
+      <option name="closed" value="true" />
+      <created>1748408787535</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748408787535</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update README">
+      <option name="closed" value="true" />
+      <created>1748408810154</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748408810154</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update README">
+      <option name="closed" value="true" />
+      <created>1748408842528</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748408842528</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Use process.env.PORT for dynamic port assignment" />
+    <MESSAGE value="Add frontend production build (dist) for deployment" />
+    <MESSAGE value="Remove unused CORS setup" />
+    <MESSAGE value="Add express.static middleware to serve frontend" />
+    <MESSAGE value="Update README with deployed backend URL" />
+    <MESSAGE value="Update README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README" />
   </component>
 </project>
